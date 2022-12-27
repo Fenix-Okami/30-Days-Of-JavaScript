@@ -1,11 +1,19 @@
-// Declaring different variables of different data types
+// Welcome to 30DaysOfJavaScript
 
-let firstName = 'Asabeneh'    // first name of a person
-let lastName = 'Yetayeh'      // last name of a person
-let country = 'Finland'       // country
-let city = 'Helsinki'         // capital city
-let age = 100                 // age in years
-let isMarried = true
+// Comments can make code readable
+
+/*Comments can make code readable, 
+easy to reuse and informative*/
+
+// Declaring different variables of different data types
+let firstName = 'Ray'    // first name of a person
+let lastName = 'Red'      // last name of a person
+let country = 'US'       // country
+let city = 'Texas'         // capital city
+let age = 30                // age in years
+let isMarried = false
+let empty = null
+let unknown
 
 // Declaring variables with number values
 
@@ -15,6 +23,6 @@ const PI = 3.14              // geometrical constant
 
 // Variables can also be declaring in one line separated by comma
 
-let name = 'Asabeneh',     //name of a person
-  job = 'teacher',
-  live = 'Finland'
+let name = 'Ray',     //name of a person
+  job = 'Programmer',
+  live = 'US'
