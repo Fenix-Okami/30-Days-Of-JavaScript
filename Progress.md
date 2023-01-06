@@ -1,0 +1,10 @@
+- <input type="checkbox" checked> Day 1
+- <input type="checkbox"> Day 2
+- <input type="checkbox"> Day 3
+- <input type="checkbox"> Day 4
+- <input type="checkbox"> Day 5
+- <input type="checkbox"> Day 6
+- <input type="checkbox"> Day 7
+- <input type="checkbox"> Day 8
+- <input type="checkbox"> Day 9
+- <input type="checkbox"> Day 10
